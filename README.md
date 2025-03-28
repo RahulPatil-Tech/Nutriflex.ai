@@ -1,4 +1,4 @@
-# NutriFLEX
+# NutriFLEX.AI
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Instagram](https://img.shields.io/badge/Instagram-follow%20me%20on%20Instagram-pink.svg)](https://instagram.com/py_rex_47)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect%20with%20me-blue.svg)](https://www.linkedin.com/in/rahul-patil-4bb533209/)

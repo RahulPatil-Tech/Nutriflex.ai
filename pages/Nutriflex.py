@@ -16,8 +16,8 @@ from PIL import Image
 
 # Configure API key for Google Generative AI
 # Configure API key for Google Generative AI
-os.environ["AIzaSyB6RH6l9QkG-7YO4Pq6mkuac_lmSEAzHPc"] = "AIzaSyB6RH6l9QkG-7YO4Pq6mkuac_lmSEAzHPc"
-genai.configure(api_key=os.environ["AIzaSyB6RH6l9QkG-7YO4Pq6mkuac_lmSEAzHPc"])
+os.environ["Google APi key"] = "Google APi key"
+genai.configure(api_key=os.environ["Google APi key"])
 
 # Generation configuration
 generation_config = {
